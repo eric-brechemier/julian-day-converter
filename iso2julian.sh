@@ -1,5 +1,6 @@
 #!/bin/sh
 # Convert an ISO date in format 'yyyy-mm-dd' to a Julian Day Number
+# Note: the Julian Day Number corresponds to the ISO date at noon.
 #
 # == Usage ==
 #
