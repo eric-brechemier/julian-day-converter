@@ -28,14 +28,14 @@ to a Julian Day Number:
 
 ```sh
 $ iso2julian 2015-03-18
-2457099
+2457100
 ```
 
 The script `julian2iso.sh` converts a Julian Day Number back to an ISO date
 in format `yyyy-mm-dd`:
 
 ```sh
-$ julian2iso 2457099
+$ julian2iso 2457100
 2015-03-18
 ```
 
@@ -44,9 +44,9 @@ read from standard input:
 
 ```sh
 $ echo '2015-03-18' | iso2julian
-2457099
+2457100
 
-$ echo 2457099 | julian2iso
+$ echo 2457100 | julian2iso
 2015-03-18
 ```
 
