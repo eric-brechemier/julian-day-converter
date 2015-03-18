@@ -16,7 +16,8 @@
 # Gregorian calendar from Julian day number
 # https://en.wikipedia.org/wiki/Julian_day#Gregorian_calendar_from_Julian_day_number
 #
-# Richards, E. G. (2013). Calendars. ((pp. 617-619)
+# According to Wikipedia, algorithm described pp. 617-619 in
+# Richards, E. G. (2013). Calendars.
 # In S. E. Urban & P. K. Seidelmann, eds.
 # Explanatory Supplement to the Astronomical Almanac, 3rd ed.
 # (pp. 585–624).
