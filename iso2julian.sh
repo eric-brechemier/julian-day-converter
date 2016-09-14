@@ -31,8 +31,8 @@ fi
 IFS='-'
 set $isoDate
 isoYear="$1"
-isoMonth="$2"
-isoDay="$3"
+isoMonth="${2#0}"
+isoDay="${3#0}"
 
 # whether the month is January or February (true=1, false=0)
 oneIfBeforeMarch="$(( (14 - $isoMonth) / 12 ))"
