@@ -16,10 +16,10 @@ This is a useful format for computations on dates:
 
 The conversions use the algorithms described on Wikipedia:
 
-1. [Converting Julian or Gregorian calendar date to Julian Day Number]
-   (https://en.wikipedia.org/wiki/Julian\_day#Converting\_Julian\_or\_Gregorian\_calendar\_date\_to\_Julian\_Day\_Number)
-2. [Gregorian calendar from Julian day number]
-   (https://en.wikipedia.org/wiki/Julian\_day#Gregorian\_calendar\_from\_Julian\_day\_number)
+1. [Converting Julian or Gregorian calendar date to Julian Day Number](
+   https://en.wikipedia.org/wiki/Julian\_day#Converting\_Julian\_or\_Gregorian\_calendar\_date\_to\_Julian\_Day\_Number)
+3. [Gregorian calendar from Julian day number](
+   https://en.wikipedia.org/wiki/Julian\_day#Gregorian\_calendar\_from\_Julian\_day\_number)
 
 ## Usage
 
